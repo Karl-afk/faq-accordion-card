@@ -23,9 +23,9 @@ Users should be able to:
 
 ### Screenshot
 Dektop version
-![screenshot-desktop.png](./screenshot-desktop.jpg)
+![/screenshot-desktop.png](/screenshot-desktop.png)
 Mobile Version
-![screenshot-mobile.png](./screenshot-mobile.jpg)
+![/screenshot-mobile.png](/screenshot-mobile.png)
 
 
 
